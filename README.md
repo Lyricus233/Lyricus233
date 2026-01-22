@@ -14,8 +14,22 @@ I'm Lyricus, aka BlackPanda.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/01/2026 19:07:10 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+HTML                     21 mins             ██████████████░░░░░░░░░░░   54.97 % 
+TypeScript               17 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+VS Code                  39 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 22/01/2026 19:00:24 UTC
 <!--END_SECTION:waka-->
 
 ---
