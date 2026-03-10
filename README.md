@@ -10,7 +10,7 @@ I'm Lyricus, aka BlackPanda.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C614%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -20,18 +20,18 @@ I'm Lyricus, aka BlackPanda.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.89 % 
-TypeScript               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.41 % 
-Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Stylus                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.88 % 
+HTML                     4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Stylus                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 19:15:46 UTC
+ Last Updated on 10/03/2026 19:14:19 UTC
 <!--END_SECTION:waka-->
 
 ---
