@@ -8,11 +8,11 @@ I'm Lyricus, aka BlackPanda.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C674%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,19 +20,19 @@ I'm Lyricus, aka BlackPanda.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 12 mins      ████████████████████░░░░░   79.14 % 
-JSON                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               12 hrs 29 mins      ██████████████████░░░░░░░   73.55 % 
+JavaScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 17 mins      ████████████████████████░   95.33 % 
-Cursor                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+VS Code                  16 hrs 22 mins      ████████████████████████░   96.46 % 
+Cursor                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
- Last Updated on 05/04/2026 19:11:02 UTC
+ Last Updated on 06/04/2026 19:36:56 UTC
 <!--END_SECTION:waka-->
 
 ---
