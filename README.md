@@ -20,18 +20,18 @@ I'm Lyricus, aka BlackPanda.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 13 mins      ████████████████░░░░░░░░░   62.41 % 
-JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Markdown                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+TypeScript               16 hrs 10 mins      ███████████████████░░░░░░   76.26 % 
+Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-VS Code                  26 hrs              █████████████████████████   100.00 % 
+VS Code                  21 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 19:48:32 UTC
+ Last Updated on 14/04/2026 19:49:32 UTC
 <!--END_SECTION:waka-->
 
 ---
