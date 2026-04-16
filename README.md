@@ -8,14 +8,30 @@ I'm Lyricus, aka BlackPanda.
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C710%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/04/2026 19:50:00 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               16 hrs 16 mins      █████████████████░░░░░░░░   67.90 % 
+JSON                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/04/2026 19:46:10 UTC
 <!--END_SECTION:waka-->
 
 ---
