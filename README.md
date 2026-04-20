@@ -1,9 +1,6 @@
-I'm Lyricus, aka BlackPanda.
+# I'm Lyricus
 
--   :hammer_and_pick: C++ / TypeScript / JavaScript / Python / Web
--   :seedling: From China
--   :speech_balloon: You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/issues)
--   Developer of [**BPJudge**](https://github.com/BPJudge)
+You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/issues)
 
 ---
 
@@ -33,6 +30,24 @@ VS Code                  13 hrs 57 mins      ███████████�
 
  Last Updated on 19/04/2026 19:14:51 UTC
 <!--END_SECTION:waka-->
+
+---
+
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=Lyricus233&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=Lyricus233&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyricus233&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true&custom_title=Lyricus's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
 
 ---
 
