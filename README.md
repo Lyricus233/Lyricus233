@@ -5,11 +5,11 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C730%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.78%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,18 +17,18 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     5 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Python                   3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-C++                      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JSON                     6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Markdown                 6 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+Python                   5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+C++                      2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/04/2026 19:41:29 UTC
+ Last Updated on 21/04/2026 19:46:10 UTC
 <!--END_SECTION:waka-->
 
 ---
