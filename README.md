@@ -15,18 +15,18 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 24 mins      ████████████░░░░░░░░░░░░░   49.45 % 
-Other                    3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Go                       2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JSON                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+TypeScript               14 hrs 12 mins      █████████████░░░░░░░░░░░░   53.10 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Go                       2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 19:59:14 UTC
+ Last Updated on 06/05/2026 20:11:12 UTC
 <!--END_SECTION:waka-->
 
 ---
