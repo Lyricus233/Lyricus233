@@ -15,18 +15,17 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 43 mins       ████████████████░░░░░░░░░   62.88 % 
-CSS                      1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-C++                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 1 hr 47 mins        ███████████████░░░░░░░░░░   59.24 % 
+CSS                      1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.19 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/05/2026 20:13:02 UTC
+ Last Updated on 19/05/2026 20:13:48 UTC
 <!--END_SECTION:waka-->
 
 ---
