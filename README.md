@@ -9,8 +9,24 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/06/2026 20:30:08 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 15 hrs 33 mins      ███████████████████████░░   93.49 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+C++                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 01/07/2026 20:24:23 UTC
 <!--END_SECTION:waka-->
 
 ---
