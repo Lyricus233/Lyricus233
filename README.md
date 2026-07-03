@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C912%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,18 +15,18 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 12 mins      ███████████████████████░░   92.50 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-C++                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 9 hrs 25 mins       ███████████████████░░░░░░   74.15 % 
+JavaScript               1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+C++                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 20:02:38 UTC
+ Last Updated on 03/07/2026 19:58:27 UTC
 <!--END_SECTION:waka-->
 
 ---
