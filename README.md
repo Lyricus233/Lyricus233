@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%206%20mins-blue?style=flat)
 
@@ -17,22 +17,22 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 18 mins      ████████████████░░░░░░░░░   64.99 % 
-Python                   2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-HTML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 8 hrs 15 mins       █████████████░░░░░░░░░░░░   53.43 % 
+Python                   2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+HTML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (4.49%)
+⏱ AI Coding Time: 46 mins (5.05%)
 
-✍️ 0 lines written by AI, 2,298 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,274 lines written by hand (0.0% AI-written)
 
 🔤 19,064,537 Input Tokens, 101,452 Output Tokens
 
@@ -50,7 +50,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/08/2026 19:43:53 UTC
+ Last Updated on 04/08/2026 20:09:37 UTC
 <!--END_SECTION:waka-->
 
 ---
