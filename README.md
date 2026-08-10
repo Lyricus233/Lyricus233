@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%206%20mins-blue?style=flat)
 
@@ -17,42 +17,22 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 3 mins        █████████████░░░░░░░░░░░░   52.66 % 
-TypeScript               3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.97 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               3 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.93 % 
+Markdown                 3 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.09 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 23 mins       ████████████████████████░   97.95 % 
-Codex CLI                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (23.48%)
-
-✍️ 836 lines written by AI, 371 lines written by hand (69.26% AI-written)
-
-🔤 17,557,897 Input Tokens, 45,740 Output Tokens
-
-💵 $48.99 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 8 AI Prompts
-
-GPT                      828 lines           █████████████████████████   99.04 % 
-Codex-Cli                8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 69.26% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 31.19% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/08/2026 19:12:00 UTC
+ Last Updated on 10/08/2026 19:30:55 UTC
 <!--END_SECTION:waka-->
 
 ---
