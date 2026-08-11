@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%206%20mins-blue?style=flat)
 
@@ -17,12 +17,12 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.93 % 
-Markdown                 3 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.09 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+TypeScript               3 hrs 23 mins       ███████████████████░░░░░░   76.76 % 
+Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -32,7 +32,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2026 19:30:55 UTC
+ Last Updated on 11/08/2026 19:35:07 UTC
 <!--END_SECTION:waka-->
 
 ---
