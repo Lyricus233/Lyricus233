@@ -17,39 +17,39 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 55 mins       ████████████████░░░░░░░░░   64.41 % 
-TypeScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               1 hr 32 mins        ███████████████░░░░░░░░░░   58.03 % 
+Markdown                 1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.86 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (31.55%)
+⏱ AI Coding Time: 59 mins (37.59%)
 
-✍️ 584 lines written by AI, 100 lines written by hand (85.38% AI-written)
+✍️ 584 lines written by AI, 84 lines written by hand (87.43% AI-written)
 
-🔤 10,433,457 Input Tokens, 100,157 Output Tokens
+🔤 6,863,158 Input Tokens, 67,137 Output Tokens
 
-💵 $43.74 Estimated AI Cost This Week
+💵 $28.80 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
 GPT                      584 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.38% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 35.68% of changed lines were hand-edited
+🤖 AI-Driven — 87.43% of written lines came from AI
+📝 Concise Prompter — average 272 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 28.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 01:51:27 UTC
+ Last Updated on 29/08/2026 21:05:10 UTC
 <!--END_SECTION:waka-->
 
 ---
