@@ -17,39 +17,39 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 7 mins        ████████████████░░░░░░░░░   65.84 % 
-TypeScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown                 2 hrs 55 mins       ████████████████░░░░░░░░░   64.41 % 
+TypeScript               1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 36 mins (33.81%)
+⏱ AI Coding Time: 1 hr 26 mins (31.55%)
 
-✍️ 799 lines written by AI, 100 lines written by hand (88.88% AI-written)
+✍️ 584 lines written by AI, 100 lines written by hand (85.38% AI-written)
 
-🔤 11,131,494 Input Tokens, 115,268 Output Tokens
+🔤 10,433,457 Input Tokens, 100,157 Output Tokens
 
-💵 $47.68 Estimated AI Cost This Week
+💵 $43.74 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-GPT                      818 lines           █████████████████████████   100.00 % 
+GPT                      584 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.88% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 28.37% of changed lines were hand-edited
+🤖 AI-Driven — 85.38% of written lines came from AI
+📝 Concise Prompter — average 172 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 35.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 02:17:48 UTC
+ Last Updated on 29/08/2026 01:51:27 UTC
 <!--END_SECTION:waka-->
 
 ---
