@@ -17,21 +17,21 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 36 mins       ███████████████████░░░░░░   75.12 % 
-Astro                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-C++                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Markdown                 3 hrs 36 mins       █████████████████░░░░░░░░   68.58 % 
+Astro                    46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+C++                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       ████████████████████████░   96.80 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+VS Code                  5 hrs 6 mins        ████████████████████████░   97.08 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (84.5%)
+⏱ AI Coding Time: 4 hrs 3 mins (77.15%)
 
 ✍️ 2,179 lines written by AI, 41 lines written by hand (98.15% AI-written)
 
@@ -52,7 +52,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2026 22:59:38 UTC
+ Last Updated on 01/09/2026 21:13:54 UTC
 <!--END_SECTION:waka-->
 
 ---
