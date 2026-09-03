@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C977%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2044%20mins-blue?style=flat)
 
@@ -17,23 +17,23 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
-Other                    1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Astro                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               3 hrs 12 mins       ███████████████░░░░░░░░░░   58.35 % 
+Other                    1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Astro                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       ████████████████████████░   96.18 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+VS Code                  5 hrs 20 mins       ████████████████████████░   97.20 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (5.07%)
+⏱ AI Coding Time: 12 mins (3.72%)
 
-✍️ 291 lines written by AI, 198 lines written by hand (59.51% AI-written)
+✍️ 291 lines written by AI, 1,338 lines written by hand (17.86% AI-written)
 
 🔤 1,321,683 Input Tokens, 7,095 Output Tokens
 
@@ -45,14 +45,14 @@ GPT                      291 lines           ███████████�
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.51% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 17.86% of written lines came from AI
 📝 Concise Prompter — average 36 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 59.3% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:13:38 UTC
+ Last Updated on 03/09/2026 21:14:16 UTC
 <!--END_SECTION:waka-->
 
 ---
