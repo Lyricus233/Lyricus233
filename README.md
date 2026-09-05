@@ -5,7 +5,7 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2044%20mins-blue?style=flat)
 
@@ -17,21 +17,21 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 12 mins       ███████████████░░░░░░░░░░   58.35 % 
-Other                    1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Astro                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               4 hrs 1 min         ████████████████░░░░░░░░░   63.43 % 
+Other                    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+Astro                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       ████████████████████████░   97.20 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+VS Code                  6 hrs 11 mins       ████████████████████████░   97.58 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (3.72%)
+⏱ AI Coding Time: 12 mins (3.21%)
 
 ✍️ 291 lines written by AI, 1,338 lines written by hand (17.86% AI-written)
 
@@ -52,7 +52,7 @@ Codex-Cli                0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/09/2026 20:56:46 UTC
+ Last Updated on 05/09/2026 20:35:44 UTC
 <!--END_SECTION:waka-->
 
 ---
