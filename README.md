@@ -11,48 +11,8 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ████████████████░░░░░░░░░   63.43 % 
-Other                    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Astro                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 11 mins       ████████████████████████░   97.58 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 mins (3.21%)
-
-✍️ 291 lines written by AI, 1,338 lines written by hand (17.86% AI-written)
-
-🔤 1,321,683 Input Tokens, 7,095 Output Tokens
-
-💵 $4.85 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-GPT                      291 lines           █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.86% of written lines came from AI
-📝 Concise Prompter — average 36 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 84.31% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/09/2026 20:35:44 UTC
+ Last Updated on 06/09/2026 20:39:37 UTC
 <!--END_SECTION:waka-->
 
 ---
