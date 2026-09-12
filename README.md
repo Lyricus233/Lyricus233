@@ -17,20 +17,20 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
-Markdown                 1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   35.12 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+C++                      2 hrs 10 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Markdown                 1 hr 49 mins        ███████████░░░░░░░░░░░░░░   42.07 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (34.94%)
+⏱ AI Coding Time: 1 hr 48 mins (41.85%)
 
 ✍️ 4,443 lines written by AI, 344 lines written by hand (92.81% AI-written)
 
@@ -50,7 +50,7 @@ GPT                      4,251 lines         ███████████�
 ```
 
 
- Last Updated on 11/09/2026 21:09:31 UTC
+ Last Updated on 12/09/2026 20:47:53 UTC
 <!--END_SECTION:waka-->
 
 ---
