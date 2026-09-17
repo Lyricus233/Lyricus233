@@ -17,40 +17,24 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-TypeScript               1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-JavaScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+TypeScript               1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.31 % 
+JavaScript               41 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (22.0%)
-
-✍️ 484 lines written by AI, 306 lines written by hand (61.27% AI-written)
-
-🔤 10,263,611 Input Tokens, 28,227 Output Tokens
-
-💵 $41.62 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-GPT                      484 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.27% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 45.37% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 21:32:54 UTC
+ Last Updated on 17/09/2026 21:37:06 UTC
 <!--END_SECTION:waka-->
 
 ---
