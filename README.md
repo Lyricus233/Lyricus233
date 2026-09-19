@@ -5,14 +5,52 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C985%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C988%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/09/2026 21:07:55 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   5 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.35 % 
+Other                    3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Markdown                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+TypeScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 22 mins (72.56%)
+
+✍️ 1,034 lines written by AI, 57 lines written by hand (94.78% AI-written)
+
+🔤 70,994,316 Input Tokens, 303,315 Output Tokens
+
+💵 $383.17 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 42 AI Prompts
+
+GPT                      1,045 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.78% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.22% of changed lines were hand-edited
+```
+
+
+ Last Updated on 19/09/2026 20:55:26 UTC
 <!--END_SECTION:waka-->
 
 ---
