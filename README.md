@@ -11,46 +11,8 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.90%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               6 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
-Markdown                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Other                    3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-HTML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 29 mins (87.14%)
-
-✍️ 6,071 lines written by AI, 763 lines written by hand (88.84% AI-written)
-
-🔤 827,045,714 Input Tokens, 3,506,001 Output Tokens
-
-💵 $1706.17 Estimated AI Cost This Week
-
-🧠 16 AI Sessions, 78 AI Prompts
-
-GPT                      6,204 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 88.84% of written lines came from AI
-📚 Verbose Prompter — average 1,982 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 24.82% of changed lines were hand-edited
-```
-
-
- Last Updated on 06/10/2026 22:46:17 UTC
+ Last Updated on 07/10/2026 23:16:30 UTC
 <!--END_SECTION:waka-->
 
 ---
