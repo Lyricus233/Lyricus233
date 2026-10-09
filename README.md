@@ -17,40 +17,40 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-JavaScript               6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Other                    3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-HTML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JavaScript               6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Markdown                 4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+HTML                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 23 mins (86.56%)
+⏱ AI Coding Time: 17 hrs 44 mins (84.86%)
 
-✍️ 7,390 lines written by AI, 775 lines written by hand (90.51% AI-written)
+✍️ 6,791 lines written by AI, 775 lines written by hand (89.76% AI-written)
 
-🔤 845,594,033 Input Tokens, 3,717,884 Output Tokens
+🔤 840,899,456 Input Tokens, 3,610,578 Output Tokens
 
-💵 $1753.80 Estimated AI Cost This Week
+💵 $1732.88 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 117 AI Prompts
+🧠 18 AI Sessions, 84 AI Prompts
 
-GPT                      7,523 lines         █████████████████████████   100.00 % 
+GPT                      6,924 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.51% of written lines came from AI
-📚 Verbose Prompter — average 1,572 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 21.64% of changed lines were hand-edited
+🤖 AI-Driven — 89.76% of written lines came from AI
+📚 Verbose Prompter — average 2,162 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 23.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 23:31:43 UTC
+ Last Updated on 09/10/2026 22:49:50 UTC
 <!--END_SECTION:waka-->
 
 ---
