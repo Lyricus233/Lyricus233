@@ -5,14 +5,52 @@ You can ask me about anything [here.](https://github.com/Lyricus233/Lyricus233/i
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C065%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.90%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/10/2026 20:59:18 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    12 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.02 % 
+Markdown                 11 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   35.48 % 
+Python                   4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+C++                      2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Prisma                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+
+🔥 Editors: 
+VS Code                  32 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 6 mins (76.88%)
+
+✍️ 7,157 lines written by AI, 126 lines written by hand (98.27% AI-written)
+
+🔤 1,011,619,320 Input Tokens, 8,945,945 Output Tokens
+
+💵 $4588.87 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 108 AI Prompts
+
+GPT                      7,199 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.27% of written lines came from AI
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.17% of changed lines were hand-edited
+```
+
+
+ Last Updated on 19/10/2026 22:34:42 UTC
 <!--END_SECTION:waka-->
 
 ---
